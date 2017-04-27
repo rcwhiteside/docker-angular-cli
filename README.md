@@ -2,4 +2,4 @@
 
 Use this to run angular-cli commands in a docker container.
 
-This is expecially useful for things like Continuous Integration where you may want to run your angular build and tests within a container.
+This is especially useful for things like Continuous Integration where you may want to run your angular build and tests within a container.
